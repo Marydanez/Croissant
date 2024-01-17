@@ -1,3 +1,14 @@
 body {
   text-align: center;
+  margin: 20px auto;
+  background: #c2e7ff;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.btns {
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
 }
