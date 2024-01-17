@@ -7,6 +7,13 @@ a {
   text-decoration: none;
   color: white;
 }
+p {
+  text-align: center;
+  margin-top: 100px;
+  border: 1px white solid;
+  border-radius: 4px;
+  background: white;
+}
 .btns {
   text-align: center;
   display: flex;
